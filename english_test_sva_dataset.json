@@ -1,0 +1,583 @@
+{
+    "1": {
+        "src": "The monk that was inspired by the rangers",
+        "base": "The magician that inspired the dancers",
+        "src_label": "rangers",
+        "base_label": "magician",
+        "base_diathesis": "active"
+    },
+    "2": {
+        "src": "The ranger that assisted the wizards",
+        "base": "The wizards that were assisted by the ranger",
+        "src_label": "ranger",
+        "base_label": "ranger",
+        "base_diathesis": "passive"
+    },
+    "3": {
+        "src": "The surgeon that was inspired by the magicians",
+        "base": "The veterans that inspired the scribe",
+        "src_label": "magicians",
+        "base_label": "veterans",
+        "base_diathesis": "active"
+    },
+    "4": {
+        "src": "The harvester that cursed the dancers",
+        "base": "The monks that were cursed by the bishop",
+        "src_label": "harvester",
+        "base_label": "bishop",
+        "base_diathesis": "passive"
+    },
+    "5": {
+        "src": "The cowboys that pleased the butcher",
+        "base": "The princess that was pleased by the scout",
+        "src_label": "cowboys",
+        "base_label": "scout",
+        "base_diathesis": "passive"
+    },
+    "6": {
+        "src": "The knights that were summoned by the butchers",
+        "base": "The butchers that summoned the knights",
+        "src_label": "butchers",
+        "base_label": "butchers",
+        "base_diathesis": "active"
+    },
+    "7": {
+        "src": "The monks that taught the knights",
+        "base": "The nuns that were taught by the princesses",
+        "src_label": "monks",
+        "base_label": "princesses",
+        "base_diathesis": "passive"
+    },
+    "8": {
+        "src": "The boxers that were enchanted by the oracles",
+        "base": "The scholar that enchanted the baker",
+        "src_label": "oracles",
+        "base_label": "scholar",
+        "base_diathesis": "active"
+    },
+    "9": {
+        "src": "The knights that tackled the archer",
+        "base": "The boxer that was tackled by the surgeon",
+        "src_label": "knights",
+        "base_label": "surgeon",
+        "base_diathesis": "passive"
+    },
+    "10": {
+        "src": "The cowboy that convinced the pilots",
+        "base": "The drivers that were convinced by the dancers",
+        "src_label": "cowboy",
+        "base_label": "dancers",
+        "base_diathesis": "passive"
+    },
+    "11": {
+        "src": "The jesters that were questioned by the seamstress",
+        "base": "The knights that questioned the cowboys",
+        "src_label": "seamstress",
+        "base_label": "knights",
+        "base_diathesis": "active"
+    },
+    "12": {
+        "src": "The seamstress that was guarded by the knights",
+        "base": "The nuns that guarded the bishops",
+        "src_label": "knights",
+        "base_label": "nuns",
+        "base_diathesis": "active"
+    },
+    "13": {
+        "src": "The emperors that guarded the dancer",
+        "base": "The jester that was guarded by the drivers",
+        "src_label": "emperors",
+        "base_label": "drivers",
+        "base_diathesis": "passive"
+    },
+    "14": {
+        "src": "The scribes that admired the cowboys",
+        "base": "The cowboys that were admired by the scribes",
+        "src_label": "scribes",
+        "base_label": "scribes",
+        "base_diathesis": "passive"
+    },
+    "15": {
+        "src": "The pilot that was defeated by the princesses",
+        "base": "The knights that defeated the veteran",
+        "src_label": "princesses",
+        "base_label": "knights",
+        "base_diathesis": "active"
+    },
+    "16": {
+        "src": "The dancer that enchanted the baker",
+        "base": "The rider that was enchanted by the surgeon",
+        "src_label": "dancer",
+        "base_label": "surgeon",
+        "base_diathesis": "passive"
+    },
+    "17": {
+        "src": "The archers that dragged the drummer",
+        "base": "The scouts that were dragged by the scribes",
+        "src_label": "archers",
+        "base_label": "scribes",
+        "base_diathesis": "passive"
+    },
+    "18": {
+        "src": "The scout that was guided by the rider",
+        "base": "The princesses that guided the surgeon",
+        "src_label": "rider",
+        "base_label": "princesses",
+        "base_diathesis": "active"
+    },
+    "19": {
+        "src": "The baker that was tackled by the butchers",
+        "base": "The nuns that tackled the nun",
+        "src_label": "butchers",
+        "base_label": "nuns",
+        "base_diathesis": "active"
+    },
+    "20": {
+        "src": "The drivers that tended the veterans",
+        "base": "The veterans that were tended by the drivers",
+        "src_label": "drivers",
+        "base_label": "drivers",
+        "base_diathesis": "passive"
+    },
+    "21": {
+        "src": "The baker that haunted the mermaid",
+        "base": "The harvesters that were haunted by the scholar",
+        "src_label": "baker",
+        "base_label": "scholar",
+        "base_diathesis": "passive"
+    },
+    "22": {
+        "src": "The scouts that defeated the seamstress",
+        "base": "The seamstress that was defeated by the scouts",
+        "src_label": "scouts",
+        "base_label": "scouts",
+        "base_diathesis": "passive"
+    },
+    "23": {
+        "src": "The pilots that tracked the bishop",
+        "base": "The wizard that was tracked by the veterans",
+        "src_label": "pilots",
+        "base_label": "veterans",
+        "base_diathesis": "passive"
+    },
+    "24": {
+        "src": "The jesters that were haunted by the cowboy",
+        "base": "The bishop that haunted the monks",
+        "src_label": "cowboy",
+        "base_label": "bishop",
+        "base_diathesis": "active"
+    },
+    "25": {
+        "src": "The dancer that cooked the princess",
+        "base": "The jester that was cooked by the seamstress",
+        "src_label": "dancer",
+        "base_label": "seamstress",
+        "base_diathesis": "passive"
+    },
+    "26": {
+        "src": "The drummer that was evaded by the magicians",
+        "base": "The harvester that evaded the princesses",
+        "src_label": "magicians",
+        "base_label": "harvester",
+        "base_diathesis": "active"
+    },
+    "27": {
+        "src": "The scholar that was questioned by the barons",
+        "base": "The barons that questioned the seamstress",
+        "src_label": "barons",
+        "base_label": "barons",
+        "base_diathesis": "active"
+    },
+    "28": {
+        "src": "The archer that inspired the veterans",
+        "base": "The baker that was inspired by the jester",
+        "src_label": "archer",
+        "base_label": "jester",
+        "base_diathesis": "passive"
+    },
+    "29": {
+        "src": "The scholar that tended the scribes",
+        "base": "The baker that was tended by the ranger",
+        "src_label": "scholar",
+        "base_label": "ranger",
+        "base_diathesis": "passive"
+    },
+    "30": {
+        "src": "The princesses that were tended by the knights",
+        "base": "The scribes that tended the drivers",
+        "src_label": "knights",
+        "base_label": "scribes",
+        "base_diathesis": "active"
+    },
+    "31": {
+        "src": "The boxer that was guarded by the scholars",
+        "base": "The knights that guarded the drivers",
+        "src_label": "scholars",
+        "base_label": "knights",
+        "base_diathesis": "active"
+    },
+    "32": {
+        "src": "The bishops that guided the butchers",
+        "base": "The boxer that was guided by the mermaid",
+        "src_label": "bishops",
+        "base_label": "mermaid",
+        "base_diathesis": "passive"
+    },
+    "33": {
+        "src": "The archer that cooked the scout",
+        "base": "The scout that was cooked by the archer",
+        "src_label": "archer",
+        "base_label": "archer",
+        "base_diathesis": "passive"
+    },
+    "34": {
+        "src": "The drivers that were tended by the veterans",
+        "base": "The veterans that tended the drivers",
+        "src_label": "veterans",
+        "base_label": "veterans",
+        "base_diathesis": "active"
+    },
+    "35": {
+        "src": "The dancers that pleased the cowboy",
+        "base": "The rangers that were pleased by the knight",
+        "src_label": "dancers",
+        "base_label": "knight",
+        "base_diathesis": "passive"
+    },
+    "36": {
+        "src": "The bishops that were cooked by the princess",
+        "base": "The princess that cooked the bishops",
+        "src_label": "princess",
+        "base_label": "princess",
+        "base_diathesis": "active"
+    },
+    "37": {
+        "src": "The princess that besieged the surgeons",
+        "base": "The pilot that was besieged by the seamstress",
+        "src_label": "princess",
+        "base_label": "seamstress",
+        "base_diathesis": "passive"
+    },
+    "38": {
+        "src": "The magician that was rebuilt by the seamstresses",
+        "base": "The drivers that rebuilt the archer",
+        "src_label": "seamstresses",
+        "base_label": "drivers",
+        "base_diathesis": "active"
+    },
+    "39": {
+        "src": "The princess that was guarded by the pilots",
+        "base": "The boxers that guarded the mermaids",
+        "src_label": "pilots",
+        "base_label": "boxers",
+        "base_diathesis": "active"
+    },
+    "40": {
+        "src": "The monks that assisted the riders",
+        "base": "The riders that were assisted by the monks",
+        "src_label": "monks",
+        "base_label": "monks",
+        "base_diathesis": "passive"
+    },
+    "41": {
+        "src": "The emperors that were tended by the jester",
+        "base": "The scribes that tended the seamstresses",
+        "src_label": "jester",
+        "base_label": "scribes",
+        "base_diathesis": "active"
+    },
+    "42": {
+        "src": "The bakers that observed the scholars",
+        "base": "The ranger that was observed by the dancers",
+        "src_label": "bakers",
+        "base_label": "dancers",
+        "base_diathesis": "passive"
+    },
+    "43": {
+        "src": "The rider that was haunted by the scribes",
+        "base": "The scribe that haunted the cowboy",
+        "src_label": "scribes",
+        "base_label": "scribe",
+        "base_diathesis": "active"
+    },
+    "44": {
+        "src": "The baker that was evaded by the boxer",
+        "base": "The scout that evaded the archer",
+        "src_label": "boxer",
+        "base_label": "scout",
+        "base_diathesis": "active"
+    },
+    "45": {
+        "src": "The boxer that was blessed by the archer",
+        "base": "The archer that blessed the boxer",
+        "src_label": "archer",
+        "base_label": "archer",
+        "base_diathesis": "active"
+    },
+    "46": {
+        "src": "The scouts that were pleased by the harvester",
+        "base": "The ranger that pleased the barons",
+        "src_label": "harvester",
+        "base_label": "ranger",
+        "base_diathesis": "active"
+    },
+    "47": {
+        "src": "The boxer that ambushed the scribes",
+        "base": "The scout that was ambushed by the wizards",
+        "src_label": "boxer",
+        "base_label": "wizards",
+        "base_diathesis": "passive"
+    },
+    "48": {
+        "src": "The dancers that fascinated the butchers",
+        "base": "The scholars that were fascinated by the boxer",
+        "src_label": "dancers",
+        "base_label": "boxer",
+        "base_diathesis": "passive"
+    },
+    "49": {
+        "src": "The nuns that guarded the oracle",
+        "base": "The veteran that was guarded by the bakers",
+        "src_label": "nuns",
+        "base_label": "bakers",
+        "base_diathesis": "passive"
+    },
+    "50": {
+        "src": "The jesters that tackled the veterans",
+        "base": "The scribes that were tackled by the princesses",
+        "src_label": "jesters",
+        "base_label": "princesses",
+        "base_diathesis": "passive"
+    },
+    "51": {
+        "src": "The barons that were pleased by the veterans",
+        "base": "The veterans that pleased the barons",
+        "src_label": "veterans",
+        "base_label": "veterans",
+        "base_diathesis": "active"
+    },
+    "52": {
+        "src": "The veteran that was kidnapped by the cowboys",
+        "base": "The jester that kidnapped the veteran",
+        "src_label": "cowboys",
+        "base_label": "jester",
+        "base_diathesis": "active"
+    },
+    "53": {
+        "src": "The veteran that was blessed by the seamstresses",
+        "base": "The emperors that blessed the scout",
+        "src_label": "seamstresses",
+        "base_label": "emperors",
+        "base_diathesis": "active"
+    },
+    "54": {
+        "src": "The bishops that dragged the scribe",
+        "base": "The scribe that was dragged by the bishops",
+        "src_label": "bishops",
+        "base_label": "bishops",
+        "base_diathesis": "passive"
+    },
+    "55": {
+        "src": "The wizards that questioned the emperor",
+        "base": "The harvesters that were questioned by the boxer",
+        "src_label": "wizards",
+        "base_label": "boxer",
+        "base_diathesis": "passive"
+    },
+    "56": {
+        "src": "The jester that was cooked by the riders",
+        "base": "The magicians that cooked the mermaids",
+        "src_label": "riders",
+        "base_label": "magicians",
+        "base_diathesis": "active"
+    },
+    "57": {
+        "src": "The archers that were rescued by the scribe",
+        "base": "The drivers that rescued the surgeon",
+        "src_label": "scribe",
+        "base_label": "drivers",
+        "base_diathesis": "active"
+    },
+    "58": {
+        "src": "The rider that tended the driver",
+        "base": "The driver that was tended by the rider",
+        "src_label": "rider",
+        "base_label": "rider",
+        "base_diathesis": "passive"
+    },
+    "59": {
+        "src": "The knights that observed the drummer",
+        "base": "The monks that were observed by the oracles",
+        "src_label": "knights",
+        "base_label": "oracles",
+        "base_diathesis": "passive"
+    },
+    "60": {
+        "src": "The jester that was admired by the wizard",
+        "base": "The wizard that admired the jester",
+        "src_label": "wizard",
+        "base_label": "wizard",
+        "base_diathesis": "active"
+    },
+    "61": {
+        "src": "The rider that questioned the surgeons",
+        "base": "The riders that were questioned by the cowboy",
+        "src_label": "rider",
+        "base_label": "cowboy",
+        "base_diathesis": "passive"
+    },
+    "62": {
+        "src": "The drummers that followed the seamstress",
+        "base": "The seamstress that was followed by the drummers",
+        "src_label": "drummers",
+        "base_label": "drummers",
+        "base_diathesis": "passive"
+    },
+    "63": {
+        "src": "The oracles that pleased the princess",
+        "base": "The wizard that was pleased by the seamstresses",
+        "src_label": "oracles",
+        "base_label": "seamstresses",
+        "base_diathesis": "passive"
+    },
+    "64": {
+        "src": "The dancers that guided the butcher",
+        "base": "The nun that was guided by the oracle",
+        "src_label": "dancers",
+        "base_label": "oracle",
+        "base_diathesis": "passive"
+    },
+    "65": {
+        "src": "The jester that observed the monk",
+        "base": "The seamstresses that were observed by the cowboy",
+        "src_label": "jester",
+        "base_label": "cowboy",
+        "base_diathesis": "passive"
+    },
+    "66": {
+        "src": "The drummer that haunted the wizards",
+        "base": "The oracle that was haunted by the scribes",
+        "src_label": "drummer",
+        "base_label": "scribes",
+        "base_diathesis": "passive"
+    },
+    "67": {
+        "src": "The pilot that inspired the emperors",
+        "base": "The nun that was inspired by the baker",
+        "src_label": "pilot",
+        "base_label": "baker",
+        "base_diathesis": "passive"
+    },
+    "68": {
+        "src": "The butcher that was pleased by the princesses",
+        "base": "The scholar that pleased the butchers",
+        "src_label": "princesses",
+        "base_label": "scholar",
+        "base_diathesis": "active"
+    },
+    "69": {
+        "src": "The scout that was tackled by the boxer",
+        "base": "The baron that tackled the rider",
+        "src_label": "boxer",
+        "base_label": "baron",
+        "base_diathesis": "active"
+    },
+    "70": {
+        "src": "The scribes that were conquered by the princess",
+        "base": "The jesters that conquered the seamstresses",
+        "src_label": "princess",
+        "base_label": "jesters",
+        "base_diathesis": "active"
+    },
+    "71": {
+        "src": "The seamstress that rescued the magician",
+        "base": "The magician that was rescued by the seamstress",
+        "src_label": "seamstress",
+        "base_label": "seamstress",
+        "base_diathesis": "passive"
+    },
+    "72": {
+        "src": "The drummer that was tracked by the ranger",
+        "base": "The dancer that tracked the rangers",
+        "src_label": "ranger",
+        "base_label": "dancer",
+        "base_diathesis": "active"
+    },
+    "73": {
+        "src": "The butchers that cooked the baron",
+        "base": "The knight that was cooked by the scouts",
+        "src_label": "butchers",
+        "base_label": "scouts",
+        "base_diathesis": "passive"
+    },
+    "74": {
+        "src": "The bakers that fascinated the nuns",
+        "base": "The harvesters that were fascinated by the riders",
+        "src_label": "bakers",
+        "base_label": "riders",
+        "base_diathesis": "passive"
+    },
+    "75": {
+        "src": "The barons that were distracted by the monks",
+        "base": "The scout that distracted the drummers",
+        "src_label": "monks",
+        "base_label": "scout",
+        "base_diathesis": "active"
+    },
+    "76": {
+        "src": "The baker that taught the dancer",
+        "base": "The scout that was taught by the ranger",
+        "src_label": "baker",
+        "base_label": "ranger",
+        "base_diathesis": "passive"
+    },
+    "77": {
+        "src": "The barons that observed the pilots",
+        "base": "The pilots that were observed by the barons",
+        "src_label": "barons",
+        "base_label": "barons",
+        "base_diathesis": "passive"
+    },
+    "78": {
+        "src": "The emperors that were kidnapped by the baron",
+        "base": "The bishop that kidnapped the veterans",
+        "src_label": "baron",
+        "base_label": "bishop",
+        "base_diathesis": "active"
+    },
+    "79": {
+        "src": "The pilot that was distracted by the jester",
+        "base": "The veterans that distracted the knights",
+        "src_label": "jester",
+        "base_label": "veterans",
+        "base_diathesis": "active"
+    },
+    "80": {
+        "src": "The seamstresses that were rescued by the mermaid",
+        "base": "The nuns that rescued the wizards",
+        "src_label": "mermaid",
+        "base_label": "nuns",
+        "base_diathesis": "active"
+    },
+    "81": {
+        "src": "The surgeon that inspired the magicians",
+        "base": "The veterans that were inspired by the scribe",
+        "src_label": "surgeon",
+        "base_label": "scribe",
+        "base_diathesis": "passive"
+    },
+    "82": {
+        "src": "The boxer that kidnapped the pilot",
+        "base": "The knights that were kidnapped by the monk",
+        "src_label": "boxer",
+        "base_label": "monk",
+        "base_diathesis": "passive"
+    },
+    "83": {
+        "src": "The boxer that was assisted by the nun",
+        "base": "The nun that assisted the boxer",
+        "src_label": "nun",
+        "base_label": "nun",
+        "base_diathesis": "active"
+    }
+}
