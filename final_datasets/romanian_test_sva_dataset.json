@@ -1,0 +1,562 @@
+{
+  "1": {
+    "src": "Grădinarul care a fost distrus de doctori",
+    "base": "Patriarhul care a distrus grădinarul",
+    "src_label": "doctori",
+    "base_label": "patriarh",
+    "base_diathesis": "active"
+  },
+  "2": {
+    "src": "Heraldul care a fost condamnat de meșteri",
+    "base": "Căpitanul care a condamnat meșterii",
+    "src_label": "meșteri",
+    "base_label": "căpitan",
+    "base_diathesis": "active"
+  },
+  "3": {
+    "src": "Poetul care a urcat străjerii",
+    "base": "Străjerii care au fost urcați de poet",
+    "src_label": "poet",
+    "base_label": "poet",
+    "base_diathesis": "passive"
+  },
+  "4": {
+    "src": "Străjerul care a fost eliberat de doctori",
+    "base": "Negustorul care a eliberat doctorii",
+    "src_label": "doctori",
+    "base_label": "negustor",
+    "base_diathesis": "active"
+  },
+  "5": {
+    "src": "Vânătoarea care a fost decupată de meșteri",
+    "base": "Meșterii care au decupat vânătoarea",
+    "src_label": "meșteri",
+    "base_label": "meșteri",
+    "base_diathesis": "active"
+  },
+  "6": {
+    "src": "Vrăjitoarea care a fost chemată de negustori",
+    "base": "Negustorul care a chemat vrăjitoarea",
+    "src_label": "negustori",
+    "base_label": "negustor",
+    "base_diathesis": "active"
+  },
+  "7": {
+    "src": "Pantofarul care a fost decupat de marinari",
+    "base": "Marinarii care au decupat pantofarul",
+    "src_label": "marinari",
+    "base_label": "marinari",
+    "base_diathesis": "active"
+  },
+  "8": {
+    "src": "Doctorul care a susținut meșterul",
+    "base": "Meșterul care a fost susținut de doctor",
+    "src_label": "doctor",
+    "base_label": "doctor",
+    "base_diathesis": "passive"
+  },
+  "9": {
+    "src": "Minerul care a fost încurajat de arhitect",
+    "base": "Arhitectul care a încurajat minerul",
+    "src_label": "arhitect",
+    "base_label": "arhitect",
+    "base_diathesis": "active"
+  },
+  "10": {
+    "src": "Țăranul care a improvizat de detectivă",
+    "base": "Detectiva care a improvizat țăranul",
+    "src_label": "detectivă",
+    "base_label": "detectivă",
+    "base_diathesis": "active"
+  },
+  "11": {
+    "src": "Pictorul care a fost plonjat de meșteri",
+    "base": "Astronomul care a plonjat meșterii",
+    "src_label": "meșteri",
+    "base_label": "astronom",
+    "base_diathesis": "active"
+  },
+  "12": {
+    "src": "Inventatorul care a fost îmbrăcat de doctori",
+    "base": "Doctorii care au îmbrăcat inventatorul",
+    "src_label": "doctori",
+    "base_label": "doctori",
+    "base_diathesis": "active"
+  },
+  "13": {
+    "src": "Heraldul care a fost plonjat de cârciumari",
+    "base": "Cârciumarii care au plonjat heraldul",
+    "src_label": "cârciumari",
+    "base_label": "cârciumari",
+    "base_diathesis": "active"
+  },
+  "14": {
+    "src": "Bijutierul care a fost decupat de meșteri",
+    "base": "Pantofarul care a decupat meșterii",
+    "src_label": "meșteri",
+    "base_label": "pantofar",
+    "base_diathesis": "active"
+  },
+  "15": {
+    "src": "Detectiva care a fost tratată de marinari",
+    "base": "Bijutierul care a tratat marinarii",
+    "src_label": "marinari",
+    "base_label": "bijutier",
+    "base_diathesis": "active"
+  },
+  "16": {
+    "src": "Vânătoarea care a fost plonjată de doctori",
+    "base": "Doctorii care au plonjat vânătoarea",
+    "src_label": "doctori",
+    "base_label": "doctori",
+    "base_diathesis": "active"
+  },
+  "17": {
+    "src": "Ocultistul care a recitat doctorii",
+    "base": "Doctorii care au fost recitați de ocultist",
+    "src_label": "ocultist",
+    "base_label": "ocultist",
+    "base_diathesis": "passive"
+  },
+  "18": {
+    "src": "Străjerul care a fost eliberat de pelerini",
+    "base": "Pelerinii care au eliberat străjerul",
+    "src_label": "pelerini",
+    "base_label": "pelerini",
+    "base_diathesis": "active"
+  },
+  "19": {
+    "src": "Meșterul care a fost recitat de poeți",
+    "base": "Doctorul care a recitat poeții",
+    "src_label": "poeți",
+    "base_label": "doctor",
+    "base_diathesis": "active"
+  },
+  "20": {
+    "src": "Străjerul care se roagă doctorilor",
+    "base": "Doctorii care au fost invocați în rugă de străjer",
+    "src_label": "străjer",
+    "base_label": "străjer",
+    "base_diathesis": "passive"
+  },
+  "21": {
+    "src": "Inventatorul care a fost apelat de patriarh",
+    "base": "Patriarhul care a apelat inventatorul",
+    "src_label": "patriarh",
+    "base_label": "patriarh",
+    "base_diathesis": "active"
+  },
+  "22": {
+    "src": "Pantofarul care a fost protejat de detectivi",
+    "base": "Detectivii care au protejat pantofarul",
+    "src_label": "detectivi",
+    "base_label": "detectivi",
+    "base_diathesis": "active"
+  },
+  "23": {
+    "src": "Pelerinul care a fost inspirat de poet",
+    "base": "Poetul care a inspirat pelerinul",
+    "src_label": "poet",
+    "base_label": "poet",
+    "base_diathesis": "active"
+  },
+  "24": {
+    "src": "Astronomul care a prevestit poetul",
+    "base": "Poetul care a fost prevestit de astronom",
+    "src_label": "astronom",
+    "base_label": "astronom",
+    "base_diathesis": "passive"
+  },
+  "25": {
+    "src": "Pelerinul care a fost plănuit de doctori",
+    "base": "Doctorii care au plănuit pelerinul",
+    "src_label": "doctori",
+    "base_label": "doctori",
+    "base_diathesis": "active"
+  },
+  "26": {
+    "src": "Pictorul care a fost îmbunătățit de negustori",
+    "base": "Negustorii care au îmbunătățit pictorul",
+    "src_label": "negustori",
+    "base_label": "negustori",
+    "base_diathesis": "active"
+  },
+  "27": {
+    "src": "Detectiva care a fost răsturnată de patriarhi",
+    "base": "Patriarhii care au răsturnat detectiva",
+    "src_label": "patriarhi",
+    "base_label": "patriarhi",
+    "base_diathesis": "active"
+  },
+  "28": {
+    "src": "Străjerul care a fost prins de poet",
+    "base": "Poetul care a prins străjerul",
+    "src_label": "poet",
+    "base_label": "poet",
+    "base_diathesis": "active"
+  },
+  "29": {
+    "src": "Cârciumarul care a fost protejat de străjeri",
+    "base": "Străjerii care au protejat cârciumarul",
+    "src_label": "străjeri",
+    "base_label": "străjeri",
+    "base_diathesis": "active"
+  },
+  "30": {
+    "src": "Bijutierul care a încurajat doctorii",
+    "base": "Doctorii care au fost încurajați de bijutier",
+    "src_label": "bijutier",
+    "base_label": "bijutier",
+    "base_diathesis": "passive"
+  },
+  "31": {
+    "src": "Druida care a fost îmbrățișată de pelerini",
+    "base": "Pelerinul care a îmbrățișat druidă",
+    "src_label": "pelerini",
+    "base_label": "pelerini",
+    "base_diathesis": "active"
+  },
+  "32": {
+    "src": "Astronomul care a recitat druizii",
+    "base": "Druizii care au fost recitați de astronom",
+    "src_label": "astronom",
+    "base_label": "astronom",
+    "base_diathesis": "passive"
+  },
+  "33": {
+    "src": "Vânătoarea care a fost adaptată de bijutieri",
+    "base": "Bijutierii care au adaptat vânătoarea",
+    "src_label": "bijutieri",
+    "base_label": "bijutieri",
+    "base_diathesis": "active"
+  },
+  "34": {
+    "src": "Țăranul care a fost inspirat de pelerini",
+    "base": "Pelerinii care au inspirat țăranul",
+    "src_label": "pelerini",
+    "base_label": "pelerini",
+    "base_diathesis": "active"
+  },
+  "35": {
+    "src": "Vânătoarea care a fost plonjat de arhitect",
+    "base": "Arhitectul care a plonjat vânătoarea",
+    "src_label": "arhitect",
+    "base_label": "arhitect",
+    "base_diathesis": "active"
+  },
+  "36": {
+    "src": "Druida care a fost încurajată de doctori",
+    "base": "Detectiva care a încurajat doctorii",
+    "src_label": "doctori",
+    "base_label": "detectivă",
+    "base_diathesis": "active"
+  },
+  "37": {
+    "src": "Minerul care a fost încurajat de poeți",
+    "base": "Poetul care a încurajat minerul",
+    "src_label": "poeți",
+    "base_label": "poet",
+    "base_diathesis": "active"
+  },
+  "38": {
+    "src": "Inventatorul care a fost apelat de căpitani",
+    "base": "Pantofarul care a apelat căpitanii",
+    "src_label": "căpitani",
+    "base_label": "pantofar",
+    "base_diathesis": "active"
+  },
+  "39": {
+    "src": "Țăranul care a fost decupat de inventatori",
+    "base": "Astronomul care a decupat inventatorii",
+    "src_label": "inventatori",
+    "base_label": "astronom",
+    "base_diathesis": "active"
+  },
+  "40": {
+    "src": "Meșterul care a descântat doctorii",
+    "base": "Doctorii care au fost descântați de meșter",
+    "src_label": "meșter",
+    "base_label": "meșter",
+    "base_diathesis": "passive"
+  },
+  "41": {
+    "src": "Pictorul care a fost eliberat de druizi",
+    "base": "Druzii care au fost atacați (și ulterior eliberați) de pictor",
+    "src_label": "pictor",
+    "base_label": "pictor",
+    "base_diathesis": "passive"
+  },
+  "42": {
+    "src": "Patriarhul care a fost prins de meșteri",
+    "base": "Meșterul care a prins patriarhul",
+    "src_label": "meșteri",
+    "base_label": "meșter",
+    "base_diathesis": "active"
+  },
+  "43": {
+    "src": "Filozoful care a fost adaptat de meșteri",
+    "base": "Heraldul care a adaptat filozoful",
+    "src_label": "meșteri",
+    "base_label": "herald",
+    "base_diathesis": "active"
+  },
+  "44": {
+    "src": "Meșterul care a fost tratat de doctori",
+    "base": "Pantofarul care a tratat doctorii",
+    "src_label": "doctori",
+    "base_label": "pantofar",
+    "base_diathesis": "active"
+  },
+  "45": {
+    "src": "Negustorul care a fost condamnat de filozofi",
+    "base": "Filozofii care au condamnat negustorul",
+    "src_label": "filozofi",
+    "base_label": "filozofi",
+    "base_diathesis": "active"
+  },
+  "46": {
+    "src": "Căpitanul care a recitat meșterii",
+    "base": "Meșterii care au fost recitați de căpitan",
+    "src_label": "căpitan",
+    "base_label": "căpitan",
+    "base_diathesis": "passive"
+  },
+  "47": {
+    "src": "Mesagerul care a amenajat doctorii",
+    "base": "Doctorii care au fost amenajați de mesager",
+    "src_label": "mesager",
+    "base_label": "mesager",
+    "base_diathesis": "passive"
+  },
+  "48": {
+    "src": "Astronomul care a recitat patriarhii",
+    "base": "Patriarhii care au fost recitați de astronom",
+    "src_label": "astronom",
+    "base_label": "astronom",
+    "base_diathesis": "passive"
+  },
+  "49": {
+    "src": "Vrăjitoarea care a urcat străjerii",
+    "base": "Străjerii care au fost urcați de vrăjitoare",
+    "src_label": "vrăjitoare",
+    "base_label": "vrăjitoare",
+    "base_diathesis": "passive"
+  },
+  "50": {
+    "src": "Căpitanul care a fost îmbrăcat de bijutier",
+    "base": "Bijutierul care a îmbrăcat căpitanul",
+    "src_label": "bijutier",
+    "base_label": "bijutier",
+    "base_diathesis": "active"
+  },
+  "51": {
+    "src": "Inventatorul care a recitat sculptorii",
+    "base": "Sculptorii care au fost recitați de inventator",
+    "src_label": "inventator",
+    "base_label": "inventator",
+    "base_diathesis": "passive"
+  },
+  "52": {
+    "src": "Filozoful care a prevestit mesagerii",
+    "base": "Mesagerii care au fost prevestiți de filozof",
+    "src_label": "filozof",
+    "base_label": "filozof",
+    "base_diathesis": "passive"
+  },
+  "53": {
+    "src": "Arheologul care a urcat marinarul",
+    "base": "Marinarul care a fost urcat de arheolog",
+    "src_label": "arheolog",
+    "base_label": "arheolog",
+    "base_diathesis": "passive"
+  },
+  "54": {
+    "src": "Luptătoarea care a distrus doctorii",
+    "base": "Doctorii care au fost distruși de luptătoare",
+    "src_label": "luptătoare",
+    "base_label": "luptătoare",
+    "base_diathesis": "passive"
+  },
+  "55": {
+    "src": "Pantofarul care a fost distrus de vânători",
+    "base": "Poetul care a distrus pantofarul",
+    "src_label": "vânători",
+    "base_label": "poet",
+    "base_diathesis": "active"
+  },
+  "56": {
+    "src": "Luptătoarea care a cercetat vânătorii",
+    "base": "Vânătorii care au fost cercetați de luptătoare",
+    "src_label": "luptătoare",
+    "base_label": "luptătoare",
+    "base_diathesis": "passive"
+  },
+  "57": {
+    "src": "Detectiva care a descifrat cârciumarii",
+    "base": "Cârciumarii care au fost descifrați de detectivă",
+    "src_label": "detectivă",
+    "base_label": "detectivă",
+    "base_diathesis": "passive"
+  },
+  "58": {
+    "src": "Mesagerul care a fost tratat de astrologi",
+    "base": "Astrologii care au tratat mesagerul",
+    "src_label": "astrologi",
+    "base_label": "astrologi",
+    "base_diathesis": "active"
+  },
+  "59": {
+    "src": "Bijutierul care a fost îmbrățișat de doctori",
+    "base": "Doctorii care au îmbrățișat bijutierul",
+    "src_label": "doctori",
+    "base_label": "doctori",
+    "base_diathesis": "active"
+  },
+  "60": {
+    "src": "Țăranul care a fost inspirat de poeți",
+    "base": "Meșterul care a inspirat poeții",
+    "src_label": "poeți",
+    "base_label": "meșter",
+    "base_diathesis": "active"
+  },
+  "61": {
+    "src": "Străjerul care a fost plănuit de detectivi",
+    "base": "Detectivii care au plănuit străjerul",
+    "src_label": "detectivi",
+    "base_label": "detectivi",
+    "base_diathesis": "active"
+  },
+  "62": {
+    "src": "Patriarhul care a fost prins de străjeri",
+    "base": "Străjerii care l-au prins pe patriarh",
+    "src_label": "străjeri",
+    "base_label": "străjeri",
+    "base_diathesis": "active"
+  },
+  "63": {
+    "src": "Grădinarul care a fost construit de marinar",
+    "base": "Marinarul care a construit grădinarul",
+    "src_label": "marinar",
+    "base_label": "marinar",
+    "base_diathesis": "active"
+  },
+  "64": {
+    "src": "Căpitanul care a fost îmbrăcat de herald",
+    "base": "Heraldul care a îmbrăcat căpitanul",
+    "src_label": "herald",
+    "base_label": "herald",
+    "base_diathesis": "active"
+  },
+  "65": {
+    "src": "Arheologul care a fost improvizat de doctori",
+    "base": "Meșterul care a improvizat arheologul",
+    "src_label": "doctori",
+    "base_label": "meșter",
+    "base_diathesis": "active"
+  },
+  "66": {
+    "src": "Detectiva care a fost recitată de poet",
+    "base": "Poetul care a recitat detectiva",
+    "src_label": "poet",
+    "base_label": "poet",
+    "base_diathesis": "active"
+  },
+  "67": {
+    "src": "Negustorul care a amenajat țăranii",
+    "base": "Țăranii care au fost amenajați de negustor",
+    "src_label": "negustor",
+    "base_label": "negustor",
+    "base_diathesis": "passive"
+  },
+  "68": {
+    "src": "Ocultistul care a fost cercetat de negustori",
+    "base": "Negustorul care a cercetat ocultistul",
+    "src_label": "negustori",
+    "base_label": "negustor",
+    "base_diathesis": "active"
+  },
+  "69": {
+    "src": "Filozoful care a fost plonjat de pelerini",
+    "base": "Doctorul care a plonjat pelerinii",
+    "src_label": "pelerini",
+    "base_label": "doctor",
+    "base_diathesis": "active"
+  },
+  "70": {
+    "src": "Ocultistul care a fost adaptat de pelerini",
+    "base": "Minerul care a adaptat ocultistul",
+    "src_label": "pelerini",
+    "base_label": "miner",
+    "base_diathesis": "active"
+  },
+  "71": {
+    "src": "Arheologul care a cercetat vânătorii",
+    "base": "Vânătorii care au fost cercetați de arheolog",
+    "src_label": "arheolog",
+    "base_label": "arheolog",
+    "base_diathesis": "passive"
+  },
+  "72": {
+    "src": "Bijutierul care a fost îmbrățișat de druidă",
+    "base": "Druida care a îmbrățișat bijutierul",
+    "src_label": "druida",
+    "base_label": "druida",
+    "base_diathesis": "active"
+  },
+  "73": {
+    "src": "Grădinarul care a fost prevestit de astrologi",
+    "base": "Astrologii care au prevestit grădinarul",
+    "src_label": "astrologi",
+    "base_label": "astrologi",
+    "base_diathesis": "active"
+  },
+  "74": {
+    "src": "Țăranul care a fost inspirat de meșter",
+    "base": "Meșterul care a inspirat țăranul",
+    "src_label": "meșter",
+    "base_label": "meșter",
+    "base_diathesis": "active"
+  },
+  "75": {
+    "src": "Grădinarul care a fost spionat de ocultiști",
+    "base": "Marchiza care a spionat grădinarul",
+    "src_label": "ocultiști",
+    "base_label": "marchiză",
+    "base_diathesis": "active"
+  },
+  "76": {
+    "src": "Vrăjitoarea care a cercetat detectivi",
+    "base": "Detectivii care au cercetat vrăjitoarea",
+    "src_label": "detectivi",
+    "base_label": "detectivi",
+    "base_diathesis": "active"
+  },
+  "77": {
+    "src": "Negustorul care a fost chemat de meșteri",
+    "base": "Pantofarul care a chemat negustorul",
+    "src_label": "meșteri",
+    "base_label": "pantofar",
+    "base_diathesis": "active"
+  },
+  "78": {
+    "src": "Bijutierul care a construit doctorii",
+    "base": "Doctorii care au fost construiți de bijutier",
+    "src_label": "bijutier",
+    "base_label": "bijutier",
+    "base_diathesis": "passive"
+  },
+  "79": {
+    "src": "Arheologul care a urcat străjerul",
+    "base": "Străjerul care a fost urcat de arheolog",
+    "src_label": "arheolog",
+    "base_label": "arheolog",
+    "base_diathesis": "passive"
+  },
+  "80": {
+    "src": "Cârciumarul care a susținut druizii",
+    "base": "Druizii care au fost susținuți de cârciumar",
+    "src_label": "cârciumar",
+    "base_label": "cârciumar",
+    "base_diathesis": "passive"
+  }
+}
